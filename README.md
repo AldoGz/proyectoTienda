@@ -1,0 +1,2 @@
+# proyectoTienda
+Product Owner Octavio
